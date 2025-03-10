@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"robocop","l":"Estat"},{"p":"roboleader","l":"Estat"},{"p":"robocop","l":"Estat0"},{"p":"roboleader","l":"Estat0"},{"p":"robocop","l":"Estat1"},{"p":"roboleader","l":"Estat1"},{"p":"robocop","l":"Estat2"},{"p":"robocop","l":"Robocop"},{"p":"roboleader","l":"Roboleader"}];updateSearchResults();
